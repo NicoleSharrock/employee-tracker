@@ -1,4 +1,6 @@
-INSERT INTO department (department_name)
+USE inventory_db;
+
+INSERT INTO departments (department_name)
 VALUES
     ("IT"),
     ("Sales"),
@@ -22,8 +24,8 @@ VALUES
 ("Samira", "Davies", 2, 1),
 ("Paisley", "stone", 3, NULL),
 ("Lacey", "Mendoza", 4, 3),
-("Lacey", "Mendoza", 5, NULL),
-("Lacey", "Mendoza", 6, 3),
-("Lacey", "Mendoza", 7, NULL),
-("Lacey", "Mendoza", 8, 3);
+("Monica", "Perez", 5, NULL),
+("Kelsey", "Edwards", 6, 3),
+("Cody", "Harrison", 7, NULL),
+("Kendra", "Sutton", 8, 3);
 

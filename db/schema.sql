@@ -3,7 +3,7 @@ CREATE DATABASE inventory_db;
 
 USE inventory_db;
 
-CREATE TABLE department (
+CREATE TABLE departments (
 id INT AUTO_INCREMENT PRIMARY KEY,
 department_name VARCHAR(30)
 );
@@ -13,7 +13,7 @@ id INT AUTO_INCREMENT PRIMARY KEY,
 title VARCHAR(30),
 salary DECIMAL(10,2),
 department_id INT,
-FOREIGN KEY (department_id) REFERENCES department(id)  
+FOREIGN KEY (department_id) REFERENCES departments(id)  
 );
 
 CREATE TABLE employee (
