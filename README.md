@@ -1,4 +1,4 @@
-# employee-tracker
+# Employee-Tracker
 
 ## Purpose 
 Command application to manage a company's employee database. 
@@ -21,10 +21,11 @@ As a business owner I want to be able to view and manage the departments, roles 
 * Inquirer
 
 
-# Deployable Link
+## Walkthrough video
+
 
 
 ## Screenshot:
-![screenshot]()
-![screenshot]()
+![screenshot](/assets/employeescreenshot.png)
+
 
