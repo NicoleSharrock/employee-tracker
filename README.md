@@ -25,6 +25,10 @@ As a business owner I want to be able to view and manage the departments, roles 
 
 
 
+https://user-images.githubusercontent.com/97641313/168503214-a00f495e-a150-497c-b946-06f4ff418e09.mp4
+
+
+
 ## Screenshot:
 ![screenshot](/assets/employeescreenshot.png)
 
